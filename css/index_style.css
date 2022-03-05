@@ -1,0 +1,12 @@
+h1 {
+  text-align: center;
+  color: black;
+  background-color: aqua;
+}
+
+.image-slider-background {
+  background-image: url(images/overlay-bg.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center center;
+}
