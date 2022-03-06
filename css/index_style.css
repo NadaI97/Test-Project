@@ -10,3 +10,9 @@ h1 {
   background-attachment: fixed;
   background-position: center center;
 }
+.mo
+{
+    background-color: lightgrey;
+    color: black;
+    text-align: center;
+}
